@@ -1,1 +1,3 @@
-Images are modified to be 320x240 to fill the screen.
+# Gambatte Borders
+
+Will be 320x240 resolution to fit the screen.
